@@ -8,11 +8,13 @@ Imagens e Links
 
 
 Objetivos:
+
 -Inserir imagens diretamente a partir de links externos (<img> com src de URL).
 
 -Criar links clicáveis (<a>) para diferentes páginas da web.
 
  O que foi feito:
+ 
 -Adicionei uma imagem.
 
 -Criei um link para o Google.
